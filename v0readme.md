@@ -27,6 +27,12 @@ Default settings in `v0_pipeline.py`:
 
 You can change this in `main()` or by editing `make_dataset(...)`.
 
+## Train/val/test split
+Default split in `v0_pipeline.py`:
+- Train: 70%
+- Val: 15%
+- Test: 15% (remainder)
+
 ## How to run (conda env)
 Use the following to reproduce the experiments in the `tda` conda environment:
 
