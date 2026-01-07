@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+outputs*/
+.matplotlib/
+.cache/
+*.log
+*.pt
+*.pth
+.env
+.venv/
+Learning_of_Graph_Evolution.pdf
