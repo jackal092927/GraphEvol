@@ -6,6 +6,7 @@ This repo modularizes the single-file notebook pipeline into reusable modules:
 - TDA + graph statistics features (`F_hat`)
 - MLP training
 - ordering search (random search / simulated annealing)
+- root identify
 - pipeline entrypoints + bash scripts
 
 ## Quick start
