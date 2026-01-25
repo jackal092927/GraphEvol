@@ -1,0 +1,8 @@
+numpy
+scipy
+networkx
+matplotlib
+torch
+gudhi
+persim
+tqdm
