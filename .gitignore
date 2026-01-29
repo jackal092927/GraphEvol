@@ -11,3 +11,5 @@ outputs*/
 .env
 .venv/
 Learning_of_Graph_Evolution.pdf
+.claude/.tmp/prompts/prompts.md
+gnn_ordering/code_review_issues.md
